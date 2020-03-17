@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="accent">#D81B60</color>
+
+    <color name="colorTransparent">#00000000</color>
+
+    <color name="colorToolbarText">#666666</color>
+    <color name="colorIcon">#666666</color>
+    <color name="colorDarkGrey">#808080</color>
+    <color name="colorButtonBG">#ECECEC</color>
+    <color name="colorButtonDynamic">#F4F4F4</color>
+    <color name="colorButtonDynamicClick">#E6E6E6</color>
+    <color name="color_bg">#D4D4D4</color>
+
+    <color name="colorIndicator">#32B8B8B8</color>
+
+    <color name="colorGoogle">#dd4b39</color>
+    <color name="colorFacebook">#3b5998</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+
+    <color name="colorNavyBlue">#003B65</color>
+    <color name="colorLightNavyBlue">#7796AD</color>
+    <color name="colorOrange">#F29301</color>
+    <color name="colorLightOrange">#F4A529</color>
+
+    <color name="popup_dialog_list_pressed">#10000000</color>
+    <color name="popup_dialog_list_normal">#ffffff</color>
+    <color name="itemclickColorbg">#EBEBEB</color>
+    <color name="color_template_main_bg">#EDEEEE</color>
+    <color name="colorGray">#707070</color>
+    <color name="colorGrayLight">#E9B8B8B8</color>
+    <color name="colorBG">#F6F6FA</color>
+
+    <color name="colorLoginDarkShadow">#c8606060</color>
+    <color name="colorLightBlack">#606060</color>
+    <color name="colorTitle">#393939</color>
+    <color name="colorBlue">#0983FE</color>
+
+    <color name="colorTabSelected">#415566</color>
+    <color name="colorTabBorder">#415566</color>
+    <color name="colorRed">#F93030</color>
+    <color name="colorRedLight">#4DD5B5B5</color>
+    <color name="colorDarkRed">#BB0000</color>
+    <color name="colorGreen">#006400</color>
+    <color name="colorWeekDarkGray">#969696</color>
+    <color name="colorWeekBG">#F1F1F1</color>
+    <color name="colorTxtLine">#7B7B7B</color>
+
+    <color name="colorToastLight">#FCF5D9</color>
+    <color name="colorToastDark">#7D4802</color>
+
+    <color name="colorTabBottomSelected">#ECECEC</color>
+    <color name="colorTabBottomUnselected">#F3F3F3</color>
+
+    <color name="colorTabBottomUnselectedStart">#FFFFFF</color>
+    <color name="colorTabBottomUnselectedCenter">#FFFFFF</color>
+    <color name="colorTabBottomUnselectedEnd">#FFFFFF</color>
+
+    <color name="colorTabBottomSelectedStart">#F3F3F3</color>
+    <color name="colorTabBottomSelectedCenter">#F7F7F7</color>
+    <color name="colorTabBottomSelectedEnd">#FCFCFC</color>
+
+    <color name="colorTabButtonSelected">#B6B6B6</color>
+    <color name="colorTabButtonUnselected">#F3F3F3</color>
+
+    <color name="colorGrey">#A9A9A9</color>
+    <color name="colorGreyLight">#63D6D6D6</color>
+
+    <color name="colorTabIconSelected">#626262</color>
+    <color name="colorTabIconUnselected">#A0A0A0</color>
+    <color name="colorTabText">#A0A0A0</color>
+
+    <color name="colorListHeaderText">#626262</color>
+    <color name="colorListSubText">#898989</color>
+    <color name="colorArrow">#B2B2B2</color>
+    <color name="colorCardTitle">#757575</color>
+    <color name="colorSquare">#F3F2F2</color>
+    <color name="colorProgress">#DFDFDF</color>
+    <color name="colorSquareTint">#F0BEBEBE</color>
+    <color name="colorWhiteTabBorder">#EBEBEB</color>
+    <color name="colorSearchBG">#f2f2f2</color>
+
+    <color name="colorBottomButton">#f3f3f3</color>
+    <color name="BlueProLight">#7194E5</color>
+    <color name="BlueLight">#658BE4</color>
+    <color name="BlueDark">#5880E4</color>
+    <color name="RedProLight">#EC595A</color>
+    <color name="RedLight">#EB4545</color>
+    <color name="RedDark">#EA3232</color>
+    <color name="OrangeProLight">#E9AE54</color>
+    <color name="OrangeLight">#FFA423</color>
+    <color name="OrangeDark">#F29301</color>
+
+</resources>

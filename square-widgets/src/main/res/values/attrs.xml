@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SquareView">
+        <attr name="viewRatio" format="float|reference" />
+    </declare-styleable>
+
+    <declare-styleable name="SquareImageView">
+        <attr name="imgRatio" format="float|reference" />
+    </declare-styleable>
+
+    <declare-styleable name="SquareLinearLayout">
+        <attr name="linRatio" format="float|reference" />
+    </declare-styleable>
+
+    <declare-styleable name="SquareRelativeLayout">
+        <attr name="relRatio" format="float|reference" />
+    </declare-styleable>
+
+    <declare-styleable name="SquareFrameLayout">
+        <attr name="frmRatio" format="float|reference" />
+    </declare-styleable>
+
+    <declare-styleable name="SquareCardView">
+        <attr name="cardRatio" format="float|reference" />
+    </declare-styleable>
+
+</resources>
